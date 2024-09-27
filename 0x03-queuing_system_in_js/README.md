@@ -1,1 +1,0 @@
-# Q System in JS
